@@ -46,13 +46,6 @@ class Dialog extends PluginBase implements CKEditorPluginInterface, CKEditorPlug
    */
   function getButtons() {
     return array();
-    /*
-      'Iframe' => array(
-        'label' => t('Insert Iframe'),
-        'image' => drupal_get_path('module', 'ckeditor_dialog') . '/js/plugins/iframe/icons/iframe.png',
-      )
-    );
-    // */
   }
   /**
    * Implements \Drupal\ckeditor\Plugin\CKEditorPluginInterface::getConfig().

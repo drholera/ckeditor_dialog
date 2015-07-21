@@ -1,4 +1,4 @@
-CKEditor Dialog for Drupal 8
+CKEditor Dialog plugin for Drupal 8
 -----------------------------------
 
 
